@@ -1,0 +1,128 @@
+{
+  "format": "web-program-pre1",
+  "manifest": [
+    {
+      "path": "1cece76c8bb46b4d22b0389d3e2b7d28467db241.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/1cece76c8bb46b4d22b0389d3e2b7d28467db241.js",
+      "size": 541561,
+      "hash": "1cece76c8bb46b4d22b0389d3e2b7d28467db241"
+    },
+    {
+      "path": "a28caabcb0bfbaaa43463b690fbe9424d0ae97a1.css",
+      "where": "client",
+      "type": "css",
+      "cacheable": true,
+      "url": "/a28caabcb0bfbaaa43463b690fbe9424d0ae97a1.css?meteor_css_resource=true",
+      "size": 333361,
+      "hash": "a28caabcb0bfbaaa43463b690fbe9424d0ae97a1"
+    },
+    {
+      "path": "packages/mizzao_bootstrap-3/bootstrap-3/fonts/glyphicons-halflings-regular.eot",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/mizzao_bootstrap-3/bootstrap-3/fonts/glyphicons-halflings-regular.eot",
+      "size": 20335,
+      "hash": "f3a9a3b609133c3d21d6b42abbf7f43bd111df72"
+    },
+    {
+      "path": "packages/mizzao_bootstrap-3/bootstrap-3/fonts/glyphicons-halflings-regular.ttf",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/mizzao_bootstrap-3/bootstrap-3/fonts/glyphicons-halflings-regular.ttf",
+      "size": 41280,
+      "hash": "aafafdc09404c4aa4447d7e898a2183def9cc1b1"
+    },
+    {
+      "path": "packages/mizzao_bootstrap-3/bootstrap-3/fonts/glyphicons-halflings-regular.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/mizzao_bootstrap-3/bootstrap-3/fonts/glyphicons-halflings-regular.svg",
+      "size": 62926,
+      "hash": "66b1fc67e37d01ee45ca75c4eefb144d2dbe98fa"
+    },
+    {
+      "path": "packages/mizzao_bootstrap-3/bootstrap-3/fonts/glyphicons-halflings-regular.woff",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/mizzao_bootstrap-3/bootstrap-3/fonts/glyphicons-halflings-regular.woff",
+      "size": 23320,
+      "hash": "22037a3455914e5662fa51a596677bdb329e2c5c"
+    },
+    {
+      "path": "packages/html5cat_bootstrap-material-design/bootstrap-material-design/dist/fonts/Material-Design.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/html5cat_bootstrap-material-design/bootstrap-material-design/dist/fonts/Material-Design.svg",
+      "size": 197119,
+      "hash": "ac90c52ff1530f5b2b7b2b93a3157c75f5d0d853"
+    },
+    {
+      "path": "packages/html5cat_bootstrap-material-design/bootstrap-material-design/dist/fonts/Material-Design.woff",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/html5cat_bootstrap-material-design/bootstrap-material-design/dist/fonts/Material-Design.woff",
+      "size": 56944,
+      "hash": "c1153e2e30d7571f3ffd9f2acc97da1cca01809f"
+    },
+    {
+      "path": "packages/html5cat_bootstrap-material-design/bootstrap-material-design/dist/fonts/Material-Design.eot",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/html5cat_bootstrap-material-design/bootstrap-material-design/dist/fonts/Material-Design.eot",
+      "size": 86192,
+      "hash": "e2ee14e82d6aba01e1ddadb3c5e77d4469dfd8cd"
+    },
+    {
+      "path": "packages/html5cat_bootstrap-material-design/bootstrap-material-design/dist/fonts/Material-Design.ttf",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/html5cat_bootstrap-material-design/bootstrap-material-design/dist/fonts/Material-Design.ttf",
+      "size": 85996,
+      "hash": "eb0af37b24280a059a2a7cc8b8c404e76c232e51"
+    },
+    {
+      "path": "app/logo.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/logo.png",
+      "size": 6655,
+      "hash": "17330e4daab1000fe61b012d7938cc950dee9eee"
+    },
+    {
+      "path": "app/todos.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/todos.js",
+      "size": 329,
+      "hash": "78e40378bf11c43b8682cabb8debed5468756d63"
+    },
+    {
+      "path": "app/user.html",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/user.html",
+      "size": 135,
+      "hash": "49c4828daa955f5bdba254f3ed86b2603c673d83"
+    },
+    {
+      "path": "head.html",
+      "where": "internal",
+      "type": "head",
+      "hash": "d004fb0aaa889ded76651ff28f16d2bb919c565c"
+    }
+  ]
+}

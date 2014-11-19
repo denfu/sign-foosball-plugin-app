@@ -1,0 +1,3 @@
+# view AndroidManifest.xml #generated:6
+-keep class com.id162hbnt208ijszlx0fm.signaviokicker { <init>(...); }
+
